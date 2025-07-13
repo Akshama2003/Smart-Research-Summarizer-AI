@@ -8,7 +8,7 @@ An AI-powered assistant that transforms complex documents into concise summaries
 ## 🌐 Live Demo
 
 👉 [Try it on Vercel](https://your-vercel-url.vercel.app)  
-*(Replace with your actual deployment URL)*
+
 
 ---
 
@@ -23,9 +23,10 @@ An AI-powered assistant that transforms complex documents into concise summaries
 ---
 
 ## 📸 UI Preview
-
-![App Screenshot](screenshot.png)  
-*(Add your actual UI screenshot here)*
+<img width="77<img width="770" height="692" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/c63fa5aa-5527-4098-afde-299063274cac" />
+4" height="676" alt="Screenshot (357)" src="https://github.com/user-attachments/assets/68a38633-bec0-4d03-ae3e-13e1890ddeb0" />
+<img width="759" height="700" alt="Screenshot (359)" src="https://github.com/user-attachments/assets/a632d4e3-f01a-45a5-8464-4726ec213519" />
+<img width="741" height="689" alt="Screenshot (360)" src="https://github.com/user-attachments/assets/6fd28f59-6d35-420b-b007-0cfe60a16379" />
 
 ---
 
