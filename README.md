@@ -9,8 +9,8 @@ An AI-powered assistant that transforms complex documents into concise summaries
 
 https://v0-research-summarizer.vercel.app/
 
+https://www.youtube.com/watch?v=XEyom4BfGEE
 
-Uploading package.json - nodebox - CodeSandbox - Google Chrome 2025-07-13 19-58-57.mp4…
 
 
 
