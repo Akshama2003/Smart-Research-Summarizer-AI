@@ -23,7 +23,7 @@ An AI-powered assistant that transforms complex documents into concise summaries
 ---
 
 ## 📸 UI Preview
-<img width="77<img width="770" height="692" alt="Screenshot (358)" 
+
 
 <img width="774" height="676" alt="Screenshot (357)" src="https://github.com/user-attachments/assets/2f449671-c0c1-4834-9217-0536a853d83c" />
 
