@@ -7,7 +7,7 @@ An AI-powered assistant that transforms complex documents into concise summaries
 
 ## 🌐 Live Demo
 
-👉 [Try it on Vercel]([https://your-vercel-url.vercel.app](https://v0-research-summarizer.vercel.app/))  
+https://v0-research-summarizer.vercel.app/
 
 
 ---
